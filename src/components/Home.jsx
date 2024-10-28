@@ -206,7 +206,7 @@ const Home = () => {
                     />
                     <div className="card-body">
                       <h5 className="card-title">Weather App</h5>
-                      <a href="">
+                      <a href="https://rexmuler.github.io/weather/">
                         <p className="card-text">
                           A weather app that fetches real-time weather data
                           using an API and displays it with an intuitive UI.
