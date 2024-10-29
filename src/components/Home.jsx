@@ -260,7 +260,7 @@ const Home = () => {
                   "JavaScript",
                   "React",
                   "Bootstrap",
-                  "Python",
+                  "PHP",
                   "Node.js",
                   "Next.js",
                 ].map((skill, index) => (
