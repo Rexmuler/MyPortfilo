@@ -64,7 +64,7 @@ const Home = () => {
     <div>
       {loading ? (
         <div className="text-center mt-5">
-          <p style={{"marginTop: 50px"}}>Loading...</p>
+          <p style={{ marginTop: "50px"}}>Loading...</p>
         </div>
       ) : (
         <>
