@@ -217,11 +217,7 @@ const Home = () => {
                 </div>
                 <div className="col-md-4 mb-3">
                   <div className="card">
-                    <img
-                      src={assets.Web}
-                      alt="To-Do List Project"
-                      className="card-img-top"
-                    />
+                  
                     <div className="card-body">
                       <h5 className="card-title">To-Do List App</h5>
                       <p className="card-text">
@@ -233,11 +229,7 @@ const Home = () => {
                 </div>
                 <div className="col-md-4 mb-3">
                   <div className="card">
-                    <img
-                      src={assets.Web}
-                      alt="Chatbot AI Project"
-                      className="card-img-top"
-                    />
+                    
                     <div className="card-body">
                       <h5 className="card-title">Chatbot AI</h5>
                       <p className="card-text">
